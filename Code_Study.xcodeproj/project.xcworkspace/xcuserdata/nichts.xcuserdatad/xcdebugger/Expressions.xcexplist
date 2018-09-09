@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Solution0002::addTwoNumbers(ListNode*, ListNode*):Solution0002.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Solution0003::lengthOfLongestSubstring(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):Solution0003.hpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "end[98]">
+            </PersistentString>
+            <PersistentString
+               value = "start[98]">
+            </PersistentString>
+            <PersistentString
+               value = "end[99]">
+            </PersistentString>
+            <PersistentString
+               value = "start[99]">
+            </PersistentString>
+            <PersistentString
+               value = "start[97]">
+            </PersistentString>
+            <PersistentString
+               value = "end[97]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

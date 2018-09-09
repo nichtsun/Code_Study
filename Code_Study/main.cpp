@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
+#include "Solution0003.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << Solution0003::lengthOfLongestSubstring("bwf") << endl;
     return 0;
 }
