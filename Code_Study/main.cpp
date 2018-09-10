@@ -7,10 +7,12 @@
 //
 
 #include <iostream>
-#include "Solution0003.hpp"
+#include <vector>
+using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    cout << Solution0003::lengthOfLongestSubstring("bwf") << endl;
+    vector<vector<int> > edge(1, vector<int>());
+    cout << edge.size() << endl;
     return 0;
 }
